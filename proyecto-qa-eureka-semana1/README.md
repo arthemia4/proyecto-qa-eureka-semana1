@@ -9,9 +9,6 @@ Este repositorio contiene el proyecto de la semana 1 del curso de QA Eureka.
 - [Instalación](#instalación)
 - [Ejecución](#ejecución)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Descripción
 
