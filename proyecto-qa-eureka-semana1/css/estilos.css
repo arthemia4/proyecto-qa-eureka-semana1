@@ -1,0 +1,15 @@
+/* estilos.css */
+:root {
+  --brand: #0864ef;
+}
+
+body {
+  line-height: 1.6;
+}
+
+header .display-5 {
+  letter-spacing: .2px;
+}
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
