@@ -80,7 +80,7 @@ El proyecto utiliza referencias oficiales y material de estudio, incluyendo:
 
 ---
 
-## 📸 Capturas de ejemplo
+## Capturas de ejemplo
 
 - **Rol del QA**: Tarjetas con descripción y responsabilidades.  
 - **Habilidades QA**: Clasificación en técnicas y blandas.  
