@@ -51,13 +51,6 @@ proyecto-qa-eureka-semana1/
 ├── package.json
 └── README.md
 ```
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para sugerencias o mejoras.
-
-## Licencia
-
 Este proyecto está bajo la licencia MIT.
 
 ## Contacto
